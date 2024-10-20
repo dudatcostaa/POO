@@ -19,4 +19,3 @@ while True:
             falsos += 1 
     
     print(falsos)
-    
